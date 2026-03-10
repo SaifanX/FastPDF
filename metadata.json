@@ -1,0 +1,7 @@
+{
+  "name": "Remix: FastPDF: Quick Book Digitizer",
+  "description": "Ultra-fast tool to compile images into a single compressed PDF. No AI, no cloud processing, just pure speed.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
